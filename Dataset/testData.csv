@@ -1,0 +1,10 @@
+Timestamp,Age,Gender,BMI,Alcohol_Consumption,Systolic_BP,Diastolic_BP,label
+26:24.6,80,Female,24.9,No,161,106,High_BP_Stage2_Hypertension
+34:54.4,54,Female,27.8,Occasional,128,66,Elevated
+21:38.3,44,Female,29.3,Regular,132,81,High_BP_Stage1_Hypertension
+13:45.6,18,Female,19.2,Regular,137,82,High_BP_Stage1_Hypertension
+53:17.6,18,Male,25.1,Regular,121,78,Elevated
+53:01.6,78,Female,23.8,No,136,84,High_BP_Stage1_Hypertension
+56:38.9,21,Male,21.2,Regular,123,65,Elevated
+55:44.4,53,Male,32.5,No,120,74,Elevated
+12:01.4,31,Female,30.5,Occasional,120,70,Elevated
